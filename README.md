@@ -1,6 +1,8 @@
 ---
 styles:
   website: /styles/website.css
+author: 李海锋
+language: zh-hans
 ---
 
 这笔记本由我逐步渐渐慢慢精心细致地整理已学知识得来😗
