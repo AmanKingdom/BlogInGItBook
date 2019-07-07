@@ -12,29 +12,37 @@
 
 * **计算机编程语言：**
 
-1. python
-2. JavaScript
+* python
+
+* JavaScript
 
 * **从事计算机领域：**
 
-1. 网站架设（使用 python 语言的 Django 框架 与 bootstrap 前端框架）
-2. 数据爬取与分析
+* 网站架设（使用 python 语言的 Django 框架 与 bootstrap 前端框架）
+
+* 数据爬取与分析
 
 * **日常使用的工具：**
 
-1. pycharm（用于 python 编程）
+* pycharm（用于 python 编程）
 
-2. gitbook（用于做系统性的教程）
+* gitbook（用于做系统性的教程）
 
-3. 有道云笔记 和 腾讯文档（用于团队协作与日常小笔记）
+* 有道云笔记 和 腾讯文档（用于团队协作与日常小笔记）
 
-4. Git 和 GitHub（用于代码托管与版本控制）[_本人GitHub_](https://github.com/AmanKingdom)
+* Git 和 GitHub（用于代码托管与版本控制）[_本人GitHub_](https://github.com/AmanKingdom)
 
-5. 微信公众号（用于生活总结与吹牛皮）
+* 微信公众号（用于生活总结与吹牛皮）
+
+![](/assets/二维码.jpg)
+
+---
+
+---
+
+---
 
 
-
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lj5RPs1s0CPxO_fJKYX%2F-Lj5hhJb0VWiyH6VcckC%2F-Lj5i6hsOWarFTk3QOBU%2F%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg?alt=media&token=2d56da00-e7e5-42be-9185-09697a73ff2c)
 
 本人微信公众号 · 你还在迷茫些什么
 
