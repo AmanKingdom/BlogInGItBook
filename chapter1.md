@@ -80,11 +80,7 @@ GitBook是什么呢？ [GitBook 官网](https://www.gitbook.com) 给的解释是
 
 ![](/assets/import9.png)
 
-
-
 ### **拓展**
-
-
 
 细心的你可能会发现我这个笔记本的域名和你那里显示的不一样，这是因为我绑定了我的个人域名的子域名，如果你有域名的话，也可以在域名管理平台上像我这样设置：
 
@@ -101,4 +97,10 @@ GitBook是什么呢？ [GitBook 官网](https://www.gitbook.com) 给的解释是
 ![](/assets/import11.png)
 
 这样，便可以通过该子域名访问这个 gitbook 了。
+
+
+
+> 更多详细用法，请参照 [GitBook官方文档](https://docs.gitbook.com/)
+
+
 
