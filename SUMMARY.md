@@ -9,6 +9,7 @@
   * [CentOS 上 Django + MySQL](django/centos-shang-django-+-mysql.md)
 * [Python](python.md)
   * [CentOS 的 python 转到 python3，python2.7 使用 python2 调用](python/centos-de-python-zhuan-dao-python3-python2-7-shi-yong-python2-diao-yong.md)
+  * [有关模块和包](python/you-guan-mo-kuai-he-bao.md)
 * [Linux](linux.md)
   * [Linux远程连接Linux](linux/linuxyuan-cheng-lian-jie-linux.md)
   * [虚拟机安装的CentOS系统不能上网解决办法](linux/xu-ni-ji-an-zhuang-de-centos-xi-tong-bu-neng-shang-wang-jie-jue-ban-fa.md)
