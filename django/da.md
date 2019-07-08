@@ -1,5 +1,9 @@
 > 说在前面的话： 为什么我要加上阿里云在这篇文章里呢？因为阿里云服务器提供外界的访问端口是有安全组的，而我们这里的部署过程中，nginx默认使用80端口，如果阿里云服务器控制台上没有设置好这个安全组规则，那下面做的许多工作就很难验证从而不知道有没有做对了。。
 
+### 总体实现思路：
+
+
+
 ### 安装目前所有需要的依赖包包 {#安装目前所有需要的依赖包包}
 
 #### 1、下载安装 Django2.1 {#1-下载安装-django21}
@@ -186,7 +190,7 @@ events {
                uwsgi_pass 127.0.0.1:8997;  #端口要和uwsgi里配置的一样
                uwsgi_param UWSGI_SCRIPT myblog.wsgi;  #wsgi.py所在的目录名+.wsgi
                uwsgi_param UWSGI_CHDIR /home/projects/myblog/; #项目路径
-               
+
             }
             location /static/ {
             alias /home/projects/myblog/static/; #静态资源路径
