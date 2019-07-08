@@ -1,9 +1,3 @@
-# 
-
-# 怎么玩
-
-有多种方式，这里介绍两种最简单的方式：
-
 ### 方式一：直接用 [GitBook 在线编辑](https://app.gitbook.com)
 
 ![](/assets/import.png)
