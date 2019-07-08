@@ -14,6 +14,8 @@
 
 6、浏览器通过公网 IP 访问
 
+但本教程的 CentOS 是已经将其自带的 python 由原来的 python2.7 转为 python3，要想使用 python2.7，则是输入 python2，所以在使用本教程前，建议先看一看这篇： CentOS 的 python 转到 python3，python2.7 使用 python2 调用
+
 # 具体实现过程
 
 ### 安装目前所有需要的依赖包包 {#安装目前所有需要的依赖包包}
