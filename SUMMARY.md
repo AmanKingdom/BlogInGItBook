@@ -8,4 +8,5 @@
   * [阿里云服务器运行django项目（centos+python3+nginx+uwsig）](django/da.md)
   * [CentOS 上 Django + MySQL](django/centos-shang-django-+-mysql.md)
 * [Python](python.md)
+  * [CentOS 的 python 转到 python3，python2.7 使用 python2 调用](python/centos-de-python-zhuan-dao-python3-python2-7-shi-yong-python2-diao-yong.md)
 
