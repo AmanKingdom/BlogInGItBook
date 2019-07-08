@@ -40,7 +40,7 @@ gitbook build
 
 ![](/assets/import37.png)
 
+> 更多详细用法，请参照 [GitBook官方文档](https://docs.gitbook.com/)
 
 
-更多详细用法，请参照 [GitBook官方文档](https://docs.gitbook.com/)
 
