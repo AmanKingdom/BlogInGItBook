@@ -28,8 +28,6 @@ GitBook是什么呢？ [GitBook 官网](https://www.gitbook.com) 给的解释是
 
 > 既然第一种方式那么简单了，那为什么还要第二种方式呢？其实是第一种方式加载速度太慢了，需要科学\#上网才好编辑，其实现在这种方式依然需要用到 [GitBook 在线编辑](https://app.gitbook.com) ，等下会说到。
 
-
-
 **总体操作思路：**
 
 1、下载 [GitBook 本地编辑器](https://legacy.gitbook.com/editor)
@@ -42,29 +40,17 @@ GitBook是什么呢？ [GitBook 官网](https://www.gitbook.com) 给的解释是
 
 5、通过 [GitBook 在线编辑](https://app.gitbook.com) 提供的网址访问该 gitbook
 
-
-
 **具体操作：**
 
-
-
 **1、先下载 **[**GitBook Editor**](https://legacy.gitbook.com/editor)
-
-
 
 ![](/assets/import2.png)
 
 **2、电脑上打开 GitBook Editor，登录选项是可选的，我们先跳过，直入主题：创建一个 GitBook**
 
-
-
 ![](/assets/import3.png)
 
-
-
 **默认创建的 GitBook 是保存在 **`C:\Users\用户名\GitBook\Library\Import`**目录下，如果你想改变 GitBook 存放的位置，可以选择下图所示位置的 **`change library path`** 把 GitBook 存放到你指定的位置：**
-
-
 
 ![](/assets/import4.png)
 
@@ -93,6 +79,12 @@ GitBook是什么呢？ [GitBook 官网](https://www.gitbook.com) 给的解释是
 这里的链接后缀是可以改的，在这里改：
 
 ![](/assets/import9.png)
+
+
+
+### **拓展**
+
+
 
 细心的你可能会发现我这个笔记本的域名和你那里显示的不一样，这是因为我绑定了我的个人域名的子域名，如果你有域名的话，也可以在域名管理平台上像我这样设置：
 
