@@ -1,6 +1,8 @@
 ### 说在前面的话： {#说在前面的话}
 
-> 我用的是python3.7版本，如果是python3.6版本的话，可以不用下面这个命令安装这么多依赖哈：
+> 众所周知，CentOS 通常都安装了 python，但该 python 版本是 2.7，而 python2.7 到明年（2020）年就不再被维护了，所以我就给我的 CentOS 安装 python3，而且要用 python 命令直接调用，而不是 python3 这个命令。有人说修改原来 python 的软链接 python2.7 到 python3 不太好，因为涉及很多 CentOS 自身系统的软件调用问题，但我还是想这样用，所有遇到的 python2 调用问题，就留给时间去发现和解决吧，以后我也会收集遇到的问题整理出来给大家哈。
+>
+> 我用的是python3.7版本，如果是python3.6 以下的 3 版本的话，可以不用下面这个命令安装这么多依赖哈：
 
 ```
 sudo yum install zlib-devel bzip2-devel openssl-devel ncurses-devel sqlite-devel readline-devel tk-devel gcc make libffi-devel
