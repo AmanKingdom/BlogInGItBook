@@ -42,17 +42,5 @@ gitbook build
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+更多详细用法，请参照 [GitBook官方文档](https://docs.gitbook.com/)
 
